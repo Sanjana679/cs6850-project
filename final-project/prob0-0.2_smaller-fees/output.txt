@@ -1,0 +1,4950 @@
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 1
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 2
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 3
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 4
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 5
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 6
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 9
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 10
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 11
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 13
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 14
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 1
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 2
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 3
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 4
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 5
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 6
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 9
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 10
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 11
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 13
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 14
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 1
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 2
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 3
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 4
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 5
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 6
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 9
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 10
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 11
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 13
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 14
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 0
+Gross Buy Cascades: 100
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 1
+Gross Buy Cascades: 100
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 2
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 3
+Gross Buy Cascades: 40
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 4
+Gross Buy Cascades: 80
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 5
+Gross Buy Cascades: 20
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 6
+Gross Buy Cascades: 60
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 7
+Gross Buy Cascades: 60
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 8
+Gross Buy Cascades: 60
+Gross Sell Cascades: 100
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 9
+Gross Buy Cascades: 100
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 10
+Gross Buy Cascades: 120
+Gross Sell Cascades: 140
+Trend Shift Buy Cascades: 1
+Trend Shift Sell Cascades: 1
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 11
+Gross Buy Cascades: 20
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 12
+Gross Buy Cascades: 140
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 1
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 13
+Gross Buy Cascades: 20
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 14
+Gross Buy Cascades: 100
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 0
+Gross Buy Cascades: 80
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 1
+Gross Buy Cascades: 60
+Gross Sell Cascades: 120
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 1
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 2
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 3
+Gross Buy Cascades: 60
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 4
+Gross Buy Cascades: 80
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 5
+Gross Buy Cascades: 60
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 6
+Gross Buy Cascades: 40
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 7
+Gross Buy Cascades: 100
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 8
+Gross Buy Cascades: 40
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 9
+Gross Buy Cascades: 80
+Gross Sell Cascades: 100
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 10
+Gross Buy Cascades: 40
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 11
+Gross Buy Cascades: 80
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 12
+Gross Buy Cascades: 20
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 13
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 14
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 0
+Gross Buy Cascades: 80
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 1
+Gross Buy Cascades: 60
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 2
+Gross Buy Cascades: 20
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 3
+Gross Buy Cascades: 80
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 4
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 5
+Gross Buy Cascades: 100
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 6
+Gross Buy Cascades: 120
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 1
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 7
+Gross Buy Cascades: 20
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 9
+Gross Buy Cascades: 80
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 10
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 11
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 12
+Gross Buy Cascades: 60
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 13
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 14
+Gross Buy Cascades: 60
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 0
+Gross Buy Cascades: 40
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 1
+Gross Buy Cascades: 40
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 2
+Gross Buy Cascades: 80
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 3
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 4
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 5
+Gross Buy Cascades: 40
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 6
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 8
+Gross Buy Cascades: 60
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 9
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 10
+Gross Buy Cascades: 20
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 11
+Gross Buy Cascades: 60
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 12
+Gross Buy Cascades: 40
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 13
+Gross Buy Cascades: 60
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 14
+Gross Buy Cascades: 40
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 0
+Gross Buy Cascades: 40
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 1
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 2
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 3
+Gross Buy Cascades: 40
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 4
+Gross Buy Cascades: 100
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 5
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 6
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 7
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 8
+Gross Buy Cascades: 60
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 9
+Gross Buy Cascades: 20
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 10
+Gross Buy Cascades: 60
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 11
+Gross Buy Cascades: 20
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 12
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 13
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 14
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 1
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 2
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 3
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 4
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 5
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 6
+Gross Buy Cascades: 0
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 8
+Gross Buy Cascades: 20
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 9
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 10
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 11
+Gross Buy Cascades: 60
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 13
+Gross Buy Cascades: 60
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 14
+Gross Buy Cascades: 60
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 1
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 2
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 3
+Gross Buy Cascades: 40
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 4
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 5
+Gross Buy Cascades: 20
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 6
+Gross Buy Cascades: 40
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 7
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 8
+Gross Buy Cascades: 60
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 9
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 10
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 11
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 13
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 14
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 0
+Gross Buy Cascades: 60
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 1
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 2
+Gross Buy Cascades: 40
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 3
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 4
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 5
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 6
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 9
+Gross Buy Cascades: 20
+Gross Sell Cascades: 60
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 10
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 11
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 12
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 13
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 14
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 0
+Gross Buy Cascades: 60
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 1
+Gross Buy Cascades: 40
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 2
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 3
+Gross Buy Cascades: 20
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 4
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 5
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 6
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 8
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 9
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 10
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 11
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 13
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 14
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 0
+Gross Buy Cascades: 60
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 1
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 2
+Gross Buy Cascades: 40
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 3
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 4
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 5
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 6
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 9
+Gross Buy Cascades: 0
+Gross Sell Cascades: 80
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 10
+Gross Buy Cascades: 100
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 11
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 13
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 14
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 0
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 1
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 2
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 3
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 4
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 5
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 6
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 9
+Gross Buy Cascades: 40
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 10
+Gross Buy Cascades: 20
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 11
+Gross Buy Cascades: 40
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 13
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 14
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 0
+Gross Buy Cascades: 20
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 1
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 2
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 3
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 4
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 5
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 6
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 9
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 10
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 11
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 12
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 13
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 14
+Gross Buy Cascades: 40
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 1
+Gross Buy Cascades: 23
+Gross Sell Cascades: 29
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 2
+Gross Buy Cascades: 42
+Gross Sell Cascades: 39
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 1
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 3
+Gross Buy Cascades: 37
+Gross Sell Cascades: 31
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 4
+Gross Buy Cascades: 20
+Gross Sell Cascades: 27
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 5
+Gross Buy Cascades: 20
+Gross Sell Cascades: 12
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 6
+Gross Buy Cascades: 11
+Gross Sell Cascades: 21
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 7
+Gross Buy Cascades: 11
+Gross Sell Cascades: 10
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 8
+Gross Buy Cascades: 6
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 9
+Gross Buy Cascades: 6
+Gross Sell Cascades: 11
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 10
+Gross Buy Cascades: 9
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 11
+Gross Buy Cascades: 2
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 12
+Gross Buy Cascades: 5
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 13
+Gross Buy Cascades: 5
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 0
+Max Possible Search Cost: 14
+Gross Buy Cascades: 5
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 1
+Gross Buy Cascades: 79
+Gross Sell Cascades: 62
+Trend Shift Buy Cascades: 4
+Trend Shift Sell Cascades: 2
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 2
+Gross Buy Cascades: 53
+Gross Sell Cascades: 68
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 3
+Gross Buy Cascades: 55
+Gross Sell Cascades: 31
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 4
+Gross Buy Cascades: 23
+Gross Sell Cascades: 25
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 5
+Gross Buy Cascades: 14
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 6
+Gross Buy Cascades: 19
+Gross Sell Cascades: 23
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 7
+Gross Buy Cascades: 15
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 8
+Gross Buy Cascades: 9
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 9
+Gross Buy Cascades: 13
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 10
+Gross Buy Cascades: 14
+Gross Sell Cascades: 12
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 11
+Gross Buy Cascades: 8
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 12
+Gross Buy Cascades: 2
+Gross Sell Cascades: 11
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 13
+Gross Buy Cascades: 9
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 1
+Max Possible Search Cost: 14
+Gross Buy Cascades: 5
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 1
+Gross Buy Cascades: 109
+Gross Sell Cascades: 92
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 1
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 2
+Gross Buy Cascades: 51
+Gross Sell Cascades: 71
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 3
+Gross Buy Cascades: 42
+Gross Sell Cascades: 21
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 4
+Gross Buy Cascades: 18
+Gross Sell Cascades: 24
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 5
+Gross Buy Cascades: 15
+Gross Sell Cascades: 15
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 6
+Gross Buy Cascades: 14
+Gross Sell Cascades: 11
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 7
+Gross Buy Cascades: 5
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 8
+Gross Buy Cascades: 8
+Gross Sell Cascades: 12
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 9
+Gross Buy Cascades: 16
+Gross Sell Cascades: 16
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 10
+Gross Buy Cascades: 4
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 11
+Gross Buy Cascades: 2
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 12
+Gross Buy Cascades: 3
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 13
+Gross Buy Cascades: 11
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 2
+Max Possible Search Cost: 14
+Gross Buy Cascades: 3
+Gross Sell Cascades: 10
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 0
+Gross Buy Cascades: 20
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 1
+Gross Buy Cascades: 55
+Gross Sell Cascades: 95
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 2
+Gross Buy Cascades: 53
+Gross Sell Cascades: 52
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 2
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 3
+Gross Buy Cascades: 23
+Gross Sell Cascades: 31
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 4
+Gross Buy Cascades: 27
+Gross Sell Cascades: 17
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 5
+Gross Buy Cascades: 23
+Gross Sell Cascades: 34
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 6
+Gross Buy Cascades: 18
+Gross Sell Cascades: 13
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 7
+Gross Buy Cascades: 16
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 8
+Gross Buy Cascades: 22
+Gross Sell Cascades: 27
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 9
+Gross Buy Cascades: 40
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 10
+Gross Buy Cascades: 16
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 11
+Gross Buy Cascades: 15
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 12
+Gross Buy Cascades: 4
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 13
+Gross Buy Cascades: 16
+Gross Sell Cascades: 13
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 3
+Max Possible Search Cost: 14
+Gross Buy Cascades: 16
+Gross Sell Cascades: 15
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 0
+Gross Buy Cascades: 80
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 1
+Gross Buy Cascades: 55
+Gross Sell Cascades: 46
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 2
+Gross Buy Cascades: 39
+Gross Sell Cascades: 33
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 3
+Gross Buy Cascades: 35
+Gross Sell Cascades: 31
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 4
+Gross Buy Cascades: 19
+Gross Sell Cascades: 16
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 5
+Gross Buy Cascades: 16
+Gross Sell Cascades: 11
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 6
+Gross Buy Cascades: 9
+Gross Sell Cascades: 22
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 7
+Gross Buy Cascades: 11
+Gross Sell Cascades: 19
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 8
+Gross Buy Cascades: 9
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 9
+Gross Buy Cascades: 11
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 10
+Gross Buy Cascades: 14
+Gross Sell Cascades: 15
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 11
+Gross Buy Cascades: 6
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 12
+Gross Buy Cascades: 10
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 13
+Gross Buy Cascades: 7
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 4
+Max Possible Search Cost: 14
+Gross Buy Cascades: 10
+Gross Sell Cascades: 13
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 1
+Gross Buy Cascades: 25
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 2
+Gross Buy Cascades: 21
+Gross Sell Cascades: 29
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 3
+Gross Buy Cascades: 16
+Gross Sell Cascades: 19
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 4
+Gross Buy Cascades: 14
+Gross Sell Cascades: 18
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 5
+Gross Buy Cascades: 4
+Gross Sell Cascades: 13
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 6
+Gross Buy Cascades: 20
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 7
+Gross Buy Cascades: 1
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 8
+Gross Buy Cascades: 16
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 9
+Gross Buy Cascades: 5
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 10
+Gross Buy Cascades: 2
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 11
+Gross Buy Cascades: 4
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 12
+Gross Buy Cascades: 1
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 13
+Gross Buy Cascades: 5
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 5
+Max Possible Search Cost: 14
+Gross Buy Cascades: 6
+Gross Sell Cascades: 12
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 0
+Gross Buy Cascades: 60
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 1
+Gross Buy Cascades: 44
+Gross Sell Cascades: 42
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 2
+Gross Buy Cascades: 25
+Gross Sell Cascades: 30
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 3
+Gross Buy Cascades: 9
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 4
+Gross Buy Cascades: 15
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 5
+Gross Buy Cascades: 12
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 6
+Gross Buy Cascades: 4
+Gross Sell Cascades: 15
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 7
+Gross Buy Cascades: 11
+Gross Sell Cascades: 11
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 8
+Gross Buy Cascades: 4
+Gross Sell Cascades: 11
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 9
+Gross Buy Cascades: 14
+Gross Sell Cascades: 10
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 10
+Gross Buy Cascades: 16
+Gross Sell Cascades: 19
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 11
+Gross Buy Cascades: 16
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 12
+Gross Buy Cascades: 1
+Gross Sell Cascades: 13
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 13
+Gross Buy Cascades: 11
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 6
+Max Possible Search Cost: 14
+Gross Buy Cascades: 8
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 0
+Gross Buy Cascades: 20
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 1
+Gross Buy Cascades: 23
+Gross Sell Cascades: 22
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 2
+Gross Buy Cascades: 18
+Gross Sell Cascades: 15
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 3
+Gross Buy Cascades: 16
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 4
+Gross Buy Cascades: 12
+Gross Sell Cascades: 11
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 5
+Gross Buy Cascades: 4
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 6
+Gross Buy Cascades: 9
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 7
+Gross Buy Cascades: 4
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 8
+Gross Buy Cascades: 19
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 9
+Gross Buy Cascades: 4
+Gross Sell Cascades: 16
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 10
+Gross Buy Cascades: 6
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 11
+Gross Buy Cascades: 10
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 12
+Gross Buy Cascades: 1
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 13
+Gross Buy Cascades: 16
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 7
+Max Possible Search Cost: 14
+Gross Buy Cascades: 2
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 0
+Gross Buy Cascades: 40
+Gross Sell Cascades: 40
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 1
+Gross Buy Cascades: 24
+Gross Sell Cascades: 22
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 2
+Gross Buy Cascades: 13
+Gross Sell Cascades: 31
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 3
+Gross Buy Cascades: 13
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 4
+Gross Buy Cascades: 12
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 5
+Gross Buy Cascades: 12
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 6
+Gross Buy Cascades: 7
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 7
+Gross Buy Cascades: 9
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 8
+Gross Buy Cascades: 4
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 9
+Gross Buy Cascades: 1
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 10
+Gross Buy Cascades: 5
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 11
+Gross Buy Cascades: 7
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 12
+Gross Buy Cascades: 8
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 13
+Gross Buy Cascades: 5
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 8
+Max Possible Search Cost: 14
+Gross Buy Cascades: 1
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 0
+Gross Buy Cascades: 40
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 1
+Gross Buy Cascades: 32
+Gross Sell Cascades: 22
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 2
+Gross Buy Cascades: 12
+Gross Sell Cascades: 27
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 3
+Gross Buy Cascades: 10
+Gross Sell Cascades: 12
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 4
+Gross Buy Cascades: 1
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 5
+Gross Buy Cascades: 5
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 6
+Gross Buy Cascades: 7
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 7
+Gross Buy Cascades: 11
+Gross Sell Cascades: 10
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 8
+Gross Buy Cascades: 4
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 9
+Gross Buy Cascades: 5
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 10
+Gross Buy Cascades: 10
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 11
+Gross Buy Cascades: 1
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 12
+Gross Buy Cascades: 1
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 13
+Gross Buy Cascades: 1
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 9
+Max Possible Search Cost: 14
+Gross Buy Cascades: 2
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 0
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 1
+Gross Buy Cascades: 20
+Gross Sell Cascades: 35
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 2
+Gross Buy Cascades: 9
+Gross Sell Cascades: 18
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 3
+Gross Buy Cascades: 4
+Gross Sell Cascades: 13
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 4
+Gross Buy Cascades: 5
+Gross Sell Cascades: 14
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 5
+Gross Buy Cascades: 11
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 6
+Gross Buy Cascades: 4
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 7
+Gross Buy Cascades: 3
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 9
+Gross Buy Cascades: 9
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 10
+Gross Buy Cascades: 0
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 11
+Gross Buy Cascades: 0
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 12
+Gross Buy Cascades: 3
+Gross Sell Cascades: 10
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 13
+Gross Buy Cascades: 1
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 10
+Max Possible Search Cost: 14
+Gross Buy Cascades: 7
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 0
+Gross Buy Cascades: 60
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 1
+Gross Buy Cascades: 26
+Gross Sell Cascades: 21
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 2
+Gross Buy Cascades: 10
+Gross Sell Cascades: 12
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 3
+Gross Buy Cascades: 16
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 4
+Gross Buy Cascades: 5
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 5
+Gross Buy Cascades: 2
+Gross Sell Cascades: 11
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 6
+Gross Buy Cascades: 3
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 7
+Gross Buy Cascades: 1
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 8
+Gross Buy Cascades: 8
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 9
+Gross Buy Cascades: 7
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 10
+Gross Buy Cascades: 2
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 11
+Gross Buy Cascades: 11
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 12
+Gross Buy Cascades: 1
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 13
+Gross Buy Cascades: 1
+Gross Sell Cascades: 15
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 11
+Max Possible Search Cost: 14
+Gross Buy Cascades: 0
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 0
+Gross Buy Cascades: 20
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 1
+Gross Buy Cascades: 13
+Gross Sell Cascades: 10
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 2
+Gross Buy Cascades: 10
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 3
+Gross Buy Cascades: 22
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 4
+Gross Buy Cascades: 3
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 5
+Gross Buy Cascades: 0
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 6
+Gross Buy Cascades: 3
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 7
+Gross Buy Cascades: 9
+Gross Sell Cascades: 7
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 8
+Gross Buy Cascades: 0
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 9
+Gross Buy Cascades: 5
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 10
+Gross Buy Cascades: 5
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 11
+Gross Buy Cascades: 7
+Gross Sell Cascades: 10
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 12
+Gross Buy Cascades: 1
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 13
+Gross Buy Cascades: 6
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 12
+Max Possible Search Cost: 14
+Gross Buy Cascades: 10
+Gross Sell Cascades: 11
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 1
+Gross Buy Cascades: 19
+Gross Sell Cascades: 15
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 2
+Gross Buy Cascades: 10
+Gross Sell Cascades: 23
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 3
+Gross Buy Cascades: 2
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 4
+Gross Buy Cascades: 0
+Gross Sell Cascades: 6
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 5
+Gross Buy Cascades: 5
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 6
+Gross Buy Cascades: 11
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 7
+Gross Buy Cascades: 0
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 8
+Gross Buy Cascades: 3
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 9
+Gross Buy Cascades: 12
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 10
+Gross Buy Cascades: 0
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 11
+Gross Buy Cascades: 12
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 13
+Gross Buy Cascades: 0
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 13
+Max Possible Search Cost: 14
+Gross Buy Cascades: 3
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 0
+Gross Buy Cascades: 0
+Gross Sell Cascades: 20
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 1
+Gross Buy Cascades: 30
+Gross Sell Cascades: 19
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 2
+Gross Buy Cascades: 11
+Gross Sell Cascades: 8
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 3
+Gross Buy Cascades: 6
+Gross Sell Cascades: 17
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 4
+Gross Buy Cascades: 0
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 5
+Gross Buy Cascades: 7
+Gross Sell Cascades: 4
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 6
+Gross Buy Cascades: 4
+Gross Sell Cascades: 5
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 7
+Gross Buy Cascades: 2
+Gross Sell Cascades: 1
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 8
+Gross Buy Cascades: 1
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 9
+Gross Buy Cascades: 1
+Gross Sell Cascades: 3
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 10
+Gross Buy Cascades: 1
+Gross Sell Cascades: 2
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 11
+Gross Buy Cascades: 9
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 12
+Gross Buy Cascades: 0
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 13
+Gross Buy Cascades: 4
+Gross Sell Cascades: 9
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
+--- Simulation Summary ---
+Probability that Edge is Active: 0.2
+Asset Price: 30
+Max Possible Trading Fee: 14
+Max Possible Search Cost: 14
+Gross Buy Cascades: 2
+Gross Sell Cascades: 0
+Trend Shift Buy Cascades: 0
+Trend Shift Sell Cascades: 0
+
+
